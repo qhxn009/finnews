@@ -81,6 +81,7 @@ When the user asks for "latest news", "what's in the news today", or "news in ca
 | **Exchanges** | Chicago Board Options Exchange (CBOE) | https://www.cboe.com/ |
 | **Exchanges** | Intercontinental Exchange (ICE) | https://www.theice.com/ |
 | **Exchanges** | London Stock Exchange (LSE) | https://www.londonstockexchange.com/ |
+| **Exchanges** | London Metal Exchange (LME) | https://www.lme.com/ |
 | **Exchanges** | Euronext | https://www.euronext.com/ |
 | **Exchanges** | Deutsche Börse | https://www.deutsche-boerse.com/ |
 | **Exchanges** | Tokyo Stock Exchange (TSE) | https://www.jpx.co.jp/english/ |
