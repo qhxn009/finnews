@@ -83,7 +83,7 @@
 | **Exchanges** | Chicago Board Options Exchange (CBOE) | 芝加哥期权交易所 |
 | **Exchanges** | Intercontinental Exchange (ICE) | 洲际交易所 |
 | **Exchanges** | London Stock Exchange (LSE) | 伦敦证券交易所 |
-| **Exchanges** |  London Metal Exchange (LME) | 伦敦金属交易所 |
+| **Exchanges** |  London Metal Exchange (LME) | 伦敦金属交易所，世界上最大的有色金属交易所 |
 | **Exchanges** | Euronext | 泛欧交易所 |
 | **Exchanges** | Deutsche Börse | 德意志交易所集团 |
 | **Exchanges** | Tokyo Stock Exchange (TSE) | 东京证券交易所 |
