@@ -20,6 +20,7 @@ When the user asks for "latest news", "what's in the news today", or "news in ca
 | **Finance**   | 发改委             | https://www.ndrc.gov.cn/ |
 | **Finance**   | 证监会             | https://www.csrc.gov.cn/|
 | **Finance**   | 央行             | https://www.pbc.gov.cn/|
+| **Finance**   | 财联社             | https://www.cls.cn/ |
 | **Finance**   | finance.sina              | https://finance.sina.cn/zt_d/subject-1776386205 |
 | **Finance**   | finance.sina              | https://finance.sina.com.cn/ |
 | **Finance**   | hexun             | https://www.hexun.com/ |
